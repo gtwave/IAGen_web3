@@ -75,6 +75,8 @@ projeto-ia-uzap/
 ├── data/                   # Documentos originais (PDFs/TXT)
 ├── .env                    # Chaves de API (Uzap Token, OpenAI Key)
 └── requirements.txt        # Dependências (fastapi, langchain, openai, chromadb)
+
+
 4. Requisitos de Manutenção da Base
 Para garantir que a IA não forneça informações obsoletas:
 
